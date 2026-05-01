@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802;Security+Engineer+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802 !;Security+Engineer+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
 </h1>
 
 <h3 align="center">🔐 Security Engineer | Penetration Tester | Product Security</h3>
