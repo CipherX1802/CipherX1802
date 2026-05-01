@@ -71,13 +71,13 @@ Python • C++ • JavaScript • Shell
 ### 📌 Writeups
 
 - 🔓 **Breaking WPA/WPA2 Without Handshake (PMKID Attack)**  
-  [Read more →](https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack)
+  [Read more →](https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack-176f5275a52c)
 
 - 🔬 **Dumping SPI Flash Using J-Link (Firmware Extraction)**  
-  [Read more →](https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra)
+  [Read more →](https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra-2834cde88acd)
 
 - 📡 **BLE Denial of Service – CVE-2025-69821**  
-  [Read more →](https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service)
+  [Read more →](https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service-in-beat-xp-vega-smartwatch-09fa42509ef9)
 
 - 🔵 **Bluetooth RFCOMM Exploit – CVE-2026-31280**  
   [Read more →](https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm-leading-to-device-crash-in-parani-m10-intercom-7597c1d5d228)
