@@ -6,10 +6,17 @@
 
 <p align="center">
   <a href="https://medium.com/@CipherX1802">
-    <img src="https://img.shields.io/badge/Medium-Research-black?logo=medium">
+    <img src="https://img.shields.io/badge/Medium-Writeups-black?logo=medium">
   </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20IoT%20%7C%20AI-blue">
-  <img src="https://img.shields.io/badge/Vulnerability%20Research-Active-red">
+  <img src="https://img.shields.io/badge/Domain-Product%20Security-grey">
+  <img src="https://img.shields.io/badge/Research-Active-red">
 </p>
 
 ---
@@ -57,9 +64,10 @@ Python • C++ • JavaScript • Shell
 
 ## 🛡️ CVEs
 
-- 🔴 [CVE-2025-69821](https://nvd.nist.gov/vuln/detail/CVE-2025-69821) — Bluetooth Low Energy *(High)*  
-- 🔴 [CVE-2025-69822](https://nvd.nist.gov/vuln/detail/CVE-2025-69822) — Wi-Fi *(High)*  
-- 🔴 [CVE-2026-31280](https://nvd.nist.gov/vuln/detail/CVE-2026-31280) — Bluetooth RFCOMM *(High)*  
+- 🔴 **[CVE-2025-69821](https://nvd.nist.gov/vuln/detail/CVE-2025-69821)** — Bluetooth Low Energy *(High)*  
+- 🔴 **[CVE-2025-69822](https://nvd.nist.gov/vuln/detail/CVE-2025-69822)** — Wi-Fi *(High)*  
+- 🔴 **[CVE-2026-31280](https://nvd.nist.gov/vuln/detail/CVE-2026-31280)** — Bluetooth RFCOMM *(High)*  
+
 ---
 
 ## 🧪 Research
