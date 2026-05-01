@@ -4,12 +4,7 @@
 
 <h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20IoT%20%7C%20AI-blue">
-  <img src="https://img.shields.io/badge/Domain-Product%20Security-grey">
-  <img src="https://img.shields.io/badge/Research-Active-red">
-</p>
+<h4 align="center">Embedded (ICS/OT), IOT, Web Application | Domain-Product Security | Security Researc</h4>
 
 ---
 
