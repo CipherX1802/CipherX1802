@@ -4,12 +4,6 @@
 
 <h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
-<p align="center">
-  <a href="https://medium.com/@CipherX1802">
-    <img src="https://img.shields.io/badge/Medium-Writeups-black?logo=medium">
-  </a>
-  
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20IoT%20%7C%20AI-blue">
