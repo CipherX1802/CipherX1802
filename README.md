@@ -36,22 +36,10 @@ Security engineer focused on **real-world vulnerability discovery, exploitation,
 
 ---
 
-## ⚙️ Tech Stack
+### 🔐 Domains## & ⚙️ Core Expertise
 
-### 🔐 Domains
-`Embedded Security` `IoT Security` `Web Security` `AI/LLM Security` `ICS/OT Security`
+`Embedded Security` • `IoT Security` • `Web Application Security` • `AI/LLM Security` • `ICS/OT Security` • `Firmware Analysis` • `Reverse Engineering` • `Vulnerability Research`
 
-### 🛠️ Tools
-Burp Suite • Nmap • Wireshark • Metasploit • Defensics  
-
-### 🔬 Reverse Engineering
-Ghidra • FACT  
-
-### 🔌 Hardware Security
-Bus Pirate • ST-Link • Attify Badge  
-
-### 💻 Languages
-Python • C++ • JavaScript • Shell  
 
 ---
 
