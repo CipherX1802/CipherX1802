@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
 </h1>
@@ -75,16 +71,16 @@ Python • C++ • JavaScript • Shell
 ### 📌 Writeups
 
 - 🔓 **Breaking WPA/WPA2 Without Handshake (PMKID Attack)**  
-  https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack  
+  [Read more →](https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack)
 
 - 🔬 **Dumping SPI Flash Using J-Link (Firmware Extraction)**  
-  https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra  
+  [Read more →](https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra)
 
 - 📡 **BLE Denial of Service – CVE-2025-69821**  
-  https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service  
+  [Read more →](https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service)
 
 - 🔵 **Bluetooth RFCOMM Exploit – CVE-2026-31280**  
-  https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm  
+  [Read more →](https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm)
 
 ---
 
