@@ -18,10 +18,10 @@
 
 Security researcher focused on **real-world vulnerability discovery and exploitation**.
 
-- 2+ years experience in **Embedded, IoT, Web & AI/LLM Security**
-- Strong in **firmware analysis, reverse engineering, fuzzing**
+- 2+ years experience across **Embedded, IoT, Web & AI/LLM Security**
+- Strong in **firmware analysis, reverse engineering, and fuzzing**
 - Hands-on with **hardware exploitation (UART, JTAG, SPI)**
-- Focused on **practical attacks & real-device impact**
+- Focused on **practical attacks with real-device impact**
 
 ---
 
@@ -32,7 +32,7 @@ Security researcher focused on **real-world vulnerability discovery and exploita
 - Performed VAPT on **embedded systems, IoT devices, and applications**
 - Conducted **firmware extraction & hardware testing**
 - Worked on **AI/LLM red teaming (prompt injection, jailbreaking)**
-- Built automation improving efficiency by **40%**
+- Built automation improving testing efficiency by **40%**
 
 ---
 
@@ -57,10 +57,9 @@ Python • C++ • JavaScript • Shell
 
 ## 🛡️ CVEs
 
-- 🔴 CVE-2025-69821 — Bluetooth Low Energy *(High)*  
-- 🔴 CVE-2025-69822 — Wi-Fi *(High)*  
-- 🔴 CVE-2026-31280 — Bluetooth RFCOMM *(High)*  
-
+- 🔴 [CVE-2025-69821](https://nvd.nist.gov/vuln/detail/CVE-2025-69821) — Bluetooth Low Energy *(High)*  
+- 🔴 [CVE-2025-69822](https://nvd.nist.gov/vuln/detail/CVE-2025-69822) — Wi-Fi *(High)*  
+- 🔴 [CVE-2026-31280](https://nvd.nist.gov/vuln/detail/CVE-2026-31280) — Bluetooth RFCOMM *(High)*  
 ---
 
 ## 🧪 Research
@@ -87,8 +86,8 @@ Python • C++ • JavaScript • Shell
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
