@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
 </h1>
