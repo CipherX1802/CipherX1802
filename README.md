@@ -4,7 +4,7 @@
 
 <h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
-<h4 align="center">Embedded (ICS/OT), IOT, Web Application | Domain-Product Security | Security Researc</h4>
+`Embedded (ICS/OT), IOT, Web Application`  `Domain-Product Security`  `Security Research`
 
 ---
 
