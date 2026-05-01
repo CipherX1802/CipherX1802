@@ -8,9 +8,7 @@
   <a href="https://medium.com/@CipherX1802">
     <img src="https://img.shields.io/badge/Medium-Writeups-black?logo=medium">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github">
-  </a>
+  
 </p>
 
 <p align="center">
