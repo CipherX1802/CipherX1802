@@ -1,43 +1,45 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802;Security+Engineer+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
 </h1>
 
-<h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
+<h3 align="center">🔐 Security Engineer | Penetration Tester | Product Security</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20(ICS%2FOT)-grey">
-  <img src="https://img.shields.io/badge/IoT-grey">
-  <img src="https://img.shields.io/badge/Web%20Application-grey">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-grey">
+  <img src="https://img.shields.io/badge/IoT%20Security-grey">
+  <img src="https://img.shields.io/badge/Web%20Security-grey">
+  <img src="https://img.shields.io/badge/AI%2FLLM%20Security-grey">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Security researcher focused on **real-world vulnerability discovery and exploitation**.
+Security engineer focused on **real-world vulnerability discovery, exploitation, and security research** across modern and embedded ecosystems.
 
-- 2+ years experience across **Embedded, IoT, Web & AI/LLM Security**
-- Strong in **firmware analysis, reverse engineering, and fuzzing**
-- Hands-on with **hardware exploitation (UART, JTAG, SPI)**
-- Focused on **practical attacks with real-device impact**
+- 2+ years of experience in **VAPT across Web, Embedded, IoT, Thick-Client, and AI/LLM systems**
+- Strong expertise in **firmware analysis, reverse engineering, fuzzing, and threat modeling**
+- Hands-on experience with **hardware security testing (UART, JTAG, SPI) and ICS/OT protocols**
+- Focused on uncovering **practical vulnerabilities with real-world impact**
 
 ---
 
 ## 💼 Work Experience
 
-🔹 **Product Security Engineer**
+**Product Security Engineer @Emerson**
 
-- Performed VAPT on **embedded systems, IoT devices, and applications**
-- Conducted **firmware extraction & hardware testing**
-- Worked on **AI/LLM red teaming (prompt injection, jailbreaking)**
-- Built automation improving testing efficiency by **40%**
+- Performed end-to-end VAPT on **embedded systems, IoT devices, and applications**
+- Conducted **firmware extraction, reverse engineering, and hardware-level security testing**
+- Worked on **AI/LLM security testing including prompt injection and jailbreak analysis**
+- Delivered security assessments aligned with **OWASP, NIST, and ISO/IEC 62443 standards**
+- Identified and reported **critical and high-severity vulnerabilities across diverse systems**
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🔐 Domains
-`Embedded` `IoT` `Wireless` `Web` `AI/LLM`
+`Embedded Security` `IoT Security` `Web Security` `AI/LLM Security` `ICS/OT Security`
 
 ### 🛠️ Tools
 Burp Suite • Nmap • Wireshark • Metasploit • Defensics  
@@ -45,7 +47,7 @@ Burp Suite • Nmap • Wireshark • Metasploit • Defensics
 ### 🔬 Reverse Engineering
 Ghidra • FACT  
 
-### 🔌 Hardware
+### 🔌 Hardware Security
 Bus Pirate • ST-Link • Attify Badge  
 
 ### 💻 Languages
@@ -53,41 +55,13 @@ Python • C++ • JavaScript • Shell
 
 ---
 
-## 🛡️ CVEs
-
-- 🔴 **[CVE-2025-69821](https://nvd.nist.gov/vuln/detail/CVE-2025-69821)** — Bluetooth Low Energy *(High)*  
-- 🔴 **[CVE-2025-69822](https://nvd.nist.gov/vuln/detail/CVE-2025-69822)** — Wi-Fi *(High)*  
-- 🔴 **[CVE-2026-31280](https://nvd.nist.gov/vuln/detail/CVE-2026-31280)** — Bluetooth RFCOMM *(High)*  
-
----
-
-## 🧪 Research
-
-📝 I publish hands-on security research & PoCs on Medium:  
-👉 https://medium.com/@CipherX1802  
-
-### 📌 Writeups
-
-- 🔓 **Breaking WPA/WPA2 Without Handshake (PMKID Attack)**  
-  [Read more →](https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack-176f5275a52c)
-
-- 🔬 **Dumping SPI Flash Using J-Link (Firmware Extraction)**  
-  [Read more →](https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra-2834cde88acd)
-
-- 📡 **BLE Denial of Service – CVE-2025-69821**  
-  [Read more →](https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service-in-beat-xp-vega-smartwatch-09fa42509ef9)
-
-- 🔵 **Bluetooth RFCOMM Exploit – CVE-2026-31280**  
-  [Read more →](https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm-leading-to-device-crash-in-parani-m10-intercom-7597c1d5d228)
-
----
-
 ## 📫 Connect
 
 - 📝 Medium → https://medium.com/@CipherX1802  
-- 💼 LinkedIn → https://www.linkedin.com/in/nikhil-m-yalgar 
+- 💼 LinkedIn → https://www.linkedin.com/in/nikhil-m-yalgar  
+
 ---
 
 <p align="center">
-  ⚡ "Exploit. Understand. Secure."
+  ⚡ Exploit. Understand. Secure. ⚡
 </p>
