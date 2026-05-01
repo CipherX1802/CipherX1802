@@ -94,7 +94,7 @@ Python • C++ • JavaScript • Shell
 ## 📫 Connect
 
 - 📝 Medium → https://medium.com/@CipherX1802  
-
+- 💼 LinkedIn → https://www.linkedin.com/in/nikhil-m-yalgar 
 ---
 
 <p align="center">
