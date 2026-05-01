@@ -26,7 +26,7 @@ Security engineer focused on **real-world vulnerability discovery, exploitation,
 
 ## 💼 Work Experience
 
-**Product Security Engineer @Emerson**
+**Associate Engineer - Product Security @Emerson**
 
 - Performed end-to-end VAPT on **embedded systems, IoT devices, and applications**
 - Conducted **firmware extraction, reverse engineering, and hardware-level security testing**
