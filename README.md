@@ -80,7 +80,7 @@ Python • C++ • JavaScript • Shell
   [Read more →](https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service)
 
 - 🔵 **Bluetooth RFCOMM Exploit – CVE-2026-31280**  
-  [Read more →](https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm)
+  [Read more →](https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm-leading-to-device-crash-in-parani-m10-intercom-7597c1d5d228)
 
 ---
 
