@@ -36,7 +36,7 @@ Security engineer focused on **real-world vulnerability discovery, exploitation,
 
 ---
 
-### 🔐 Domains## & ⚙️ Core Expertise
+### 🔐 Domains & ⚙️ Core Expertise
 
 `Embedded Security` • `IoT Security` • `Web Application Security` • `AI/LLM Security` • `ICS/OT Security` • `Firmware Analysis` • `Reverse Engineering` • `Vulnerability Research`
 
