@@ -5,9 +5,9 @@
 <h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20(ICS%2FOT)-blue">
-  <img src="https://img.shields.io/badge/IoT-blue">
-  <img src="https://img.shields.io/badge/Web%20Application-blue">
+  <img src="https://img.shields.io/badge/Embedded%20(ICS%2FOT)-grey">
+  <img src="https://img.shields.io/badge/IoT-grey">
+  <img src="https://img.shields.io/badge/Web%20Application-grey">
 </p>
 
 ---
