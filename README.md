@@ -8,8 +8,6 @@
   <code>Embedded (ICS/OT)</code>
   <code>IoT</code>
   <code>Web Application</code>
-  <code>Product Security</code>
-  <code>Security Research</code>
 </h4>
 
 ---
