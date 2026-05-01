@@ -1,45 +1,41 @@
-<h1 align="center">👋 Hey, I'm CipherX1802</h1>
-<h3 align="center">🔐 Product Security Engineer | Security Researcher | Penetration Tester</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
+</h1>
+
+<h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
 <p align="center">
-  <a href="https://medium.com/@CipherX1802"><img src="https://img.shields.io/badge/Medium-Research-black?logo=medium"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Security-Researcher-red"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Focus-IoT%20%7C%20Embedded%20%7C%20AI-blue"></a>
+  <a href="https://medium.com/@CipherX1802">
+    <img src="https://img.shields.io/badge/Medium-Writeups-black?logo=medium">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20IoT%20%7C%20AI-blue">
+  <img src="https://img.shields.io/badge/Vulnerability%20Research-Active-red">
 </p>
 
 ---
 
-## 🧑🏻‍💻 About Me
+## 🧑🏻‍💻 About
 
-🔹 Security professional with **2+ years of hands-on experience**  
-🔹 Specialized in **Embedded Systems, IoT, Web, and AI/LLM Security**  
-🔹 Focused on **firmware analysis, reverse engineering, fuzzing & exploitation**  
-🔹 Passionate about breaking real-world systems to make them secure  
+Security researcher focused on **real-world vulnerability discovery and exploitation** across:
 
----
+- Embedded Systems & IoT Devices  
+- Wireless Communication (Bluetooth, Wi-Fi, RF)  
+- Firmware & Hardware Interfaces  
+- AI / LLM Attack Surfaces  
 
-## 🏢 Experience
-
-💼 **Product Security Engineer @ Emerson**
-
-- Conducted VAPT on **Embedded, IoT, Web & AI systems**
-- Performed **firmware extraction & hardware testing (UART, JTAG, SPI)**
-- Worked on **AI/LLM red teaming** (prompt injection, jailbreaking)
-- Improved testing efficiency by **40% through automation**
-- Achieved **100% audit compliance** 🏆 *(Star Award)*
+I specialize in **firmware analysis, reverse engineering, fuzzing, and protocol-level attacks**, with an emphasis on **practical impact over theoretical findings**.
 
 ---
 
-## 🧪 Research & Writeups
+## 🧪 Research Focus
 
-📝 I publish practical security research & PoCs on Medium:  
-👉 https://medium.com/@CipherX1802  
+- 📡 Wireless & RF Security (BLE, Bluetooth Classic, Wi-Fi)  
+- 🔬 Firmware Dumping & Reverse Engineering  
+- ⚙️ Hardware Exploitation (UART, JTAG, SPI)  
+- 🤖 AI/LLM Red Teaming (Prompt Injection, Jailbreaking)  
+- 🧠 Protocol-Level Vulnerability Discovery  
 
-🔬 Focus Areas:
-- Wireless & RF Exploitation  
-- Firmware Dumping & Reverse Engineering  
-- Bluetooth & Wi-Fi Vulnerabilities  
-- Real-device attack scenarios  
+📝 Writeups & PoCs → https://medium.com/@CipherX1802  
 
 ---
 
@@ -51,10 +47,10 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Arsenal
 
-### 🔐 Security Domains
-`Embedded` `IoT` `Web` `Thick Client` `AI/LLM` `ICS`
+### 🔐 Domains
+`Embedded` `IoT` `Wireless` `Web` `AI/LLM`
 
 ### 🛠️ Tools
 ![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite)
@@ -62,37 +58,28 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-lightblue?logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
 
-### 🧠 Firmware & RE
+### 🔬 Reverse Engineering
 ![Ghidra](https://img.shields.io/badge/Ghidra-red)
 ![FACT](https://img.shields.io/badge/FACT-grey)
 
 ### 🔌 Hardware
 ![BusPirate](https://img.shields.io/badge/Bus%20Pirate-black)
 ![STLink](https://img.shields.io/badge/ST--Link-blue)
-![Attify](https://img.shields.io/badge/Attify%20Badge-green)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Shell](https://img.shields.io/badge/Shell-grey)
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 ISC2 Certified in Cybersecurity  
-- 🎓 Cisco CyberOps Associate  
-- 🎓 EC-Council Ethical Hacking Essentials  
-- 🎓 Offensive Penetration Testing — Cybrary  
-- 🎓 AI Security / LLM Red Teaming — Detoxio  
-
----
-
-## 🌍 Standards & Frameworks
-
-`OWASP Top 10` • `OWASP LLM Top 10`  
-`ISO/IEC 62443` • `NIST` • `EU CRA`
+- ISC2 Certified in Cybersecurity  
+- Cisco CyberOps Associate  
+- EC-Council Ethical Hacking Essentials  
+- Offensive Penetration Testing — Cybrary  
+- AI Security / LLM Red Teaming  
 
 ---
 
@@ -105,17 +92,12 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
-💼 Open for:
-- 🔐 Security Audits (IoT / Embedded / Web / AI)
-- 🧪 Research Collaborations
-- ⚔️ Penetration Testing
-
-📩 Reach out via GitHub or Medium
+- 📝 Medium → https://medium.com/@CipherX1802  
 
 ---
 
 <p align="center">
-  ⚡ "Break it. Understand it. Secure it."
+  ⚡ "Exploit. Understand. Secure."
 </p>
