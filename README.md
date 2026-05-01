@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=28&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+CipherX1802;Security+Researcher+%7C+Ethical+Hacker;Breaking+Systems+%F0%9F%94%90+Securing+Reality" />
 </h1>
 
 <h3 align="center">🔐 Security Researcher | Penetration Tester | Product Security</h3>
 
 <p align="center">
   <a href="https://medium.com/@CipherX1802">
-    <img src="https://img.shields.io/badge/Medium-Writeups-black?logo=medium">
+    <img src="https://img.shields.io/badge/Medium-Research-black?logo=medium">
   </a>
   <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20IoT%20%7C%20AI-blue">
   <img src="https://img.shields.io/badge/Vulnerability%20Research-Active-red">
@@ -18,28 +18,44 @@
 
 ---
 
-## 🧑🏻‍💻 About
+## 👨‍💻 About Me
 
-Security researcher focused on **real-world vulnerability discovery and exploitation** across:
+Security researcher focused on **real-world vulnerability discovery and exploitation**.
 
-- Embedded Systems & IoT Devices  
-- Wireless Communication (Bluetooth, Wi-Fi, RF)  
-- Firmware & Hardware Interfaces  
-- AI / LLM Attack Surfaces  
-
-I specialize in **firmware analysis, reverse engineering, fuzzing, and protocol-level attacks**, with an emphasis on **practical impact over theoretical findings**.
+- 2+ years experience in **Embedded, IoT, Web & AI/LLM Security**
+- Strong in **firmware analysis, reverse engineering, fuzzing**
+- Hands-on with **hardware exploitation (UART, JTAG, SPI)**
+- Focused on **practical attacks & real-device impact**
 
 ---
 
-## 🧪 Research Focus
+## 💼 Work Experience
 
-- 📡 Wireless & RF Security (BLE, Bluetooth Classic, Wi-Fi)  
-- 🔬 Firmware Dumping & Reverse Engineering  
-- ⚙️ Hardware Exploitation (UART, JTAG, SPI)  
-- 🤖 AI/LLM Red Teaming (Prompt Injection, Jailbreaking)  
-- 🧠 Protocol-Level Vulnerability Discovery  
+🔹 **Product Security Engineer**
 
-📝 Writeups & PoCs → https://medium.com/@CipherX1802  
+- Performed VAPT on **embedded systems, IoT devices, and applications**
+- Conducted **firmware extraction & hardware testing**
+- Worked on **AI/LLM red teaming (prompt injection, jailbreaking)**
+- Built automation improving efficiency by **40%**
+
+---
+
+## ⚙️ Tech Stack
+
+### 🔐 Domains
+`Embedded` `IoT` `Wireless` `Web` `AI/LLM`
+
+### 🛠️ Tools
+Burp Suite • Nmap • Wireshark • Metasploit • Defensics  
+
+### 🔬 Reverse Engineering
+Ghidra • FACT  
+
+### 🔌 Hardware
+Bus Pirate • ST-Link • Attify Badge  
+
+### 💻 Languages
+Python • C++ • JavaScript • Shell  
 
 ---
 
@@ -51,39 +67,24 @@ I specialize in **firmware analysis, reverse engineering, fuzzing, and protocol-
 
 ---
 
-## ⚙️ Arsenal
+## 🧪 Research
 
-### 🔐 Domains
-`Embedded` `IoT` `Wireless` `Web` `AI/LLM`
+📝 I publish hands-on security research & PoCs on Medium:  
+👉 https://medium.com/@CipherX1802  
 
-### 🛠️ Tools
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-blue)
-![Wireshark](https://img.shields.io/badge/Wireshark-lightblue?logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
+### 📌 Writeups
 
-### 🔬 Reverse Engineering
-![Ghidra](https://img.shields.io/badge/Ghidra-red)
-![FACT](https://img.shields.io/badge/FACT-grey)
+- 🔓 **Breaking WPA/WPA2 Without Handshake (PMKID Attack)**  
+  https://medium.com/@CipherX1802/breaking-wpa-wpa2-without-a-handshake-a-deep-dive-into-the-pmkid-attack  
 
-### 🔌 Hardware
-![BusPirate](https://img.shields.io/badge/Bus%20Pirate-black)
-![STLink](https://img.shields.io/badge/ST--Link-blue)
+- 🔬 **Dumping SPI Flash Using J-Link (Firmware Extraction)**  
+  https://medium.com/@CipherX1802/one-tool-to-rule-them-all-dumping-spi-flash-with-j-link-ultra  
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+- 📡 **BLE Denial of Service – CVE-2025-69821**  
+  https://medium.com/@CipherX1802/cve-2025-69821-ble-denial-of-service  
 
----
-
-## 📜 Certifications
-
-- ISC2 Certified in Cybersecurity  
-- Cisco CyberOps Associate  
-- EC-Council Ethical Hacking Essentials  
-- Offensive Penetration Testing — Cybrary  
-- AI Security / LLM Red Teaming  
+- 🔵 **Bluetooth RFCOMM Exploit – CVE-2026-31280**  
+  https://medium.com/@CipherX1802/cve-2026-31280-insecure-bluetooth-rfcomm  
 
 ---
 
